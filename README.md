@@ -17,3 +17,5 @@ Este proyecto fue desarrollado con pasión y dedicación por el siguiente equipo
 * **[Samuel Nieto]**
 * **[Miguel Suarez]**
 * **[Michael Moreno]**
+
+![Presentación]("https://github.com/Dieg-host/Hackathon_Los_Ganadores/blob/main/WhatsApp%20Image%202025-07-12%20at%203.42.17%20PM.jpeg?raw=true")
